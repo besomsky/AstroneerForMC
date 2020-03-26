@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/sylvastone",
+    "up": "more_tools:blocks/sylvastone",
+    "north": "more_tools:blocks/sylvastone",
+    "east": "more_tools:blocks/sylvastone",
+    "south": "more_tools:blocks/sylvastone",
+    "west": "more_tools:blocks/sylvastone",
+    "particle": "more_tools:blocks/sylvastone"
+  }
+}

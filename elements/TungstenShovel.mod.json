@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tungsten_shovel",
+    "customModelName": "Normal",
+    "name": "Tungsten Shovel",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 5.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TungstenIngot"
+      }
+    ]
+  }
+}

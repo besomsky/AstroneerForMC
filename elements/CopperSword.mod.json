@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "copper_sword",
+    "customModelName": "Normal",
+    "name": "Copper Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 6.5,
+    "attackSpeed": 1.6,
+    "enchantability": 13,
+    "damageVsEntity": 6.0,
+    "usageCount": 600,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      }
+    ]
+  }
+}

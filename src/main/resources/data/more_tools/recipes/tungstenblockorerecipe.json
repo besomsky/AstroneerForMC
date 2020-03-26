@@ -1,0 +1,13 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:tungstenoreblock"
+    }
+  ],
+  "result": {
+    "item": "more_tools:tungsteningot",
+    "count": 9
+  }
+}

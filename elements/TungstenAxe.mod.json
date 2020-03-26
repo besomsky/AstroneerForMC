@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tungsten_axe",
+    "customModelName": "Normal",
+    "name": "Tungsten Axe",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 8.0,
+    "attackSpeed": 1.5,
+    "enchantability": 14,
+    "damageVsEntity": 11.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TungstenIngot"
+      }
+    ]
+  }
+}

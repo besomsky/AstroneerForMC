@@ -1,0 +1,22 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:tungsteningot"
+    },
+    {
+      "item": "more_tools:tungsteningot"
+    },
+    {
+      "item": "more_tools:tungsteningot"
+    },
+    {
+      "item": "more_tools:tungsteningot"
+    }
+  ],
+  "result": {
+    "item": "more_tools:tungstenarmorboots",
+    "count": 1
+  }
+}

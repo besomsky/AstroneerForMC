@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_tools:blocks/sylvagoldore",
+    "particle": "more_tools:blocks/sylvagoldore"
+  }
+}

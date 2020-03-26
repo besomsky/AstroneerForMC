@@ -1,0 +1,22 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:copperingot"
+    },
+    {
+      "item": "more_tools:copperingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "more_tools:copperhoe",
+    "count": 1
+  }
+}

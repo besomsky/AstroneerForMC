@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "Fuel",
+    "textureStill": "fuelstill",
+    "textureFlowing": "fluidflow",
+    "luminosity": 1,
+    "density": 2000,
+    "viscosity": 2000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "spawnWorldTypes": [
+      "CUSTOM:Sylva"
+    ]
+  }
+}

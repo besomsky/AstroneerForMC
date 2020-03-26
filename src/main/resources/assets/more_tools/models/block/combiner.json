@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/combiner_top_bottom",
+    "up": "more_tools:blocks/combiner_top_bottom",
+    "north": "more_tools:blocks/combiner_frontside2",
+    "east": "more_tools:blocks/combiner_side",
+    "south": "more_tools:blocks/combiner_side",
+    "west": "more_tools:blocks/combiner_side",
+    "particle": "more_tools:blocks/combiner_top_bottom"
+  }
+}

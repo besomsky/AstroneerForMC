@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "laterite_sword",
+    "customModelName": "Normal",
+    "name": "Aluminium Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.5,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 7.0,
+    "usageCount": 550,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LateriteIngot"
+      }
+    ]
+  }
+}

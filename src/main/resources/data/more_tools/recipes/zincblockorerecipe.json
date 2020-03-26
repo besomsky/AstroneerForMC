@@ -1,0 +1,13 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:zincoreblock"
+    }
+  ],
+  "result": {
+    "item": "more_tools:zincingot",
+    "count": 9
+  }
+}

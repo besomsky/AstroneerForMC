@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "sylvaflower1",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Test",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "hardness": 0.5,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "PINK",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "CUSTOM:Sylva"
+    ],
+    "restrictionBiomes": [],
+    "onStartToDestroy": {
+      "name": "TestStartToDestroy"
+    },
+    "onEntityCollides": {
+      "name": "TestMobplayerCollidesWithPlant"
+    }
+  }
+}

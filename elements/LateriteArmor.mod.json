@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "laterite_head",
+    "enableBody": true,
+    "textureBody": "laterite_body",
+    "enableLeggings": true,
+    "textureLeggings": "laterite_leggings",
+    "enableBoots": true,
+    "textureBoots": "laterite_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "armorTextureFile": "laterite",
+    "helmetName": "Aluminium Helmet",
+    "bodyName": "Aluminium Chestplate",
+    "leggingsName": "Aluminium Leggings",
+    "bootsName": "Aluminium Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 17,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.5,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:LateriteIngot"
+      }
+    ]
+  }
+}

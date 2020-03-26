@@ -1,0 +1,36 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:copperingot"
+    },
+    "1": {
+      "item": "more_tools:copperingot"
+    },
+    "2": {
+      "item": "more_tools:copperingot"
+    },
+    "3": {
+      "item": "more_tools:copperingot"
+    },
+    "5": {
+      "item": "more_tools:copperingot"
+    },
+    "6": {
+      "item": "more_tools:copperingot"
+    },
+    "8": {
+      "item": "more_tools:copperingot"
+    }
+  },
+  "result": {
+    "item": "more_tools:copper_armorarmorlegs",
+    "count": 1
+  }
+}

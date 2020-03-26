@@ -1,0 +1,25 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "more_tools:zincingot"
+    }
+  ],
+  "result": {
+    "item": "more_tools:zincarmorhelmet",
+    "count": 1
+  }
+}

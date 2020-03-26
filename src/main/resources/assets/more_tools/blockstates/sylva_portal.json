@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "more_tools:block/sylva_portal_ew"
+    },
+    "axis=x": {
+      "model": "more_tools:block/sylva_portal_ns"
+    }
+  }
+}

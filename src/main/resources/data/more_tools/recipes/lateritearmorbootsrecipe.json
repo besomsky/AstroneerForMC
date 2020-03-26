@@ -1,0 +1,22 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:lateriteingot"
+    },
+    {
+      "item": "more_tools:lateriteingot"
+    },
+    {
+      "item": "more_tools:lateriteingot"
+    },
+    {
+      "item": "more_tools:lateriteingot"
+    }
+  ],
+  "result": {
+    "item": "more_tools:lateritearmorboots",
+    "count": 1
+  }
+}

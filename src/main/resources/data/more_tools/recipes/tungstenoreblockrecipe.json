@@ -1,0 +1,42 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:tungsteningot"
+    },
+    "1": {
+      "item": "more_tools:tungsteningot"
+    },
+    "2": {
+      "item": "more_tools:tungsteningot"
+    },
+    "3": {
+      "item": "more_tools:tungsteningot"
+    },
+    "4": {
+      "item": "more_tools:tungsteningot"
+    },
+    "5": {
+      "item": "more_tools:tungsteningot"
+    },
+    "6": {
+      "item": "more_tools:tungsteningot"
+    },
+    "7": {
+      "item": "more_tools:tungsteningot"
+    },
+    "8": {
+      "item": "more_tools:tungsteningot"
+    }
+  },
+  "result": {
+    "item": "more_tools:tungstenoreblock",
+    "count": 1
+  }
+}

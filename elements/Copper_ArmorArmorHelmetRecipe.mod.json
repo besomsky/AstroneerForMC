@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      },
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      },
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      },
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MalachiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Copper_ArmorArmor.helmet"
+    },
+    "name": "copper_armorarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

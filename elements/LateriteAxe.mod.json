@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "laterite_axe",
+    "customModelName": "Normal",
+    "name": "Aluminium Axe",
+    "creativeTab": {
+      "value": "CUSTOM:Astroneer"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 6.5,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 8.5,
+    "usageCount": 550,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LateriteIngot"
+      }
+    ]
+  }
+}

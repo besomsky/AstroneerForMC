@@ -1,0 +1,22 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "more_tools:zincingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "more_tools:zinchoe",
+    "count": 1
+  }
+}

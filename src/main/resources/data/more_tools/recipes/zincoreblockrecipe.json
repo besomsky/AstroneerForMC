@@ -1,0 +1,42 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:zincingot"
+    },
+    "1": {
+      "item": "more_tools:zincingot"
+    },
+    "2": {
+      "item": "more_tools:zincingot"
+    },
+    "3": {
+      "item": "more_tools:zincingot"
+    },
+    "4": {
+      "item": "more_tools:zincingot"
+    },
+    "5": {
+      "item": "more_tools:zincingot"
+    },
+    "6": {
+      "item": "more_tools:zincingot"
+    },
+    "7": {
+      "item": "more_tools:zincingot"
+    },
+    "8": {
+      "item": "more_tools:zincingot"
+    }
+  },
+  "result": {
+    "item": "more_tools:zincoreblock",
+    "count": 1
+  }
+}

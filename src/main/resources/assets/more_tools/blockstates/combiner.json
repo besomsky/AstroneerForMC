@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "more_tools:block/combiner"
+    },
+    "facing=east": {
+      "model": "more_tools:block/combiner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "more_tools:block/combiner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "more_tools:block/combiner",
+      "y": 270
+    }
+  }
+}

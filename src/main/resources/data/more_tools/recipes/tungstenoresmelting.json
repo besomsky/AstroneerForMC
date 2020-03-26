@@ -1,0 +1,11 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "more_tools:tungstenore"
+  },
+  "result": {
+    "item": "more_tools:tungsteningot"
+  }
+}

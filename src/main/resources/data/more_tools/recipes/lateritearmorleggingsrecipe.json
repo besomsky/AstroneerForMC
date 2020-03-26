@@ -1,0 +1,36 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:lateriteingot"
+    },
+    "1": {
+      "item": "more_tools:lateriteingot"
+    },
+    "2": {
+      "item": "more_tools:lateriteingot"
+    },
+    "3": {
+      "item": "more_tools:lateriteingot"
+    },
+    "5": {
+      "item": "more_tools:lateriteingot"
+    },
+    "6": {
+      "item": "more_tools:lateriteingot"
+    },
+    "8": {
+      "item": "more_tools:lateriteingot"
+    }
+  },
+  "result": {
+    "item": "more_tools:lateritearmorlegs",
+    "count": 1
+  }
+}
