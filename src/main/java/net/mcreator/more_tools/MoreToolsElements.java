@@ -48,6 +48,8 @@ public class MoreToolsElements {
 	public final List<Supplier<EntityType<?>>> entities = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MoreToolsElements() {
+		sounds.put(new ResourceLocation("more_tools", "sylvaportalsound"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("more_tools", "sylvaportalsound")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("more_tools").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

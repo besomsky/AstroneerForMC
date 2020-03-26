@@ -1,0 +1,10 @@
+{
+  "_fv": 6,
+  "_type": "fuel",
+  "definition": {
+    "power": 2700,
+    "block": {
+      "value": "CUSTOM:FuelCompact1"
+    }
+  }
+}

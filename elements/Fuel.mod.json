@@ -14,8 +14,6 @@
     "creativeTab": {
       "value": "CUSTOM:Astroneer"
     },
-    "spawnWorldTypes": [
-      "CUSTOM:Sylva"
-    ]
+    "spawnWorldTypes": []
   }
 }

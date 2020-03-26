@@ -1,0 +1,12 @@
+{
+  "parent": "more_tools:custom/fuel",
+  "textures": {
+    "all": "more_tools:blocks/combiner_top_bottom",
+    "particle": "more_tools:blocks/combiner_top_bottom",
+    "0": "more_tools:blocks/texture",
+    "1": "more_tools:blocks/ilmachine_frontside",
+    "2": "more_tools:blocks/ilmachine_left_backside",
+    "3": "more_tools:blocks/ilmachine_rightside",
+    "4": "more_tools:blocks/ilmachine_top_bottom"
+  }
+}

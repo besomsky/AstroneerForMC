@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FuelCompact1"
+          },
+          "color": {
+            "value": -57776,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 408,
+          "y": 132
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "onTakenFromSlot": {
+            "name": "Whenitemtakenfromslot"
+          },
+          "onStackTransfer": {
+            "name": "Whentransferedfromslot"
+          },
+          "name": "Slot #1",
+          "x": 516,
+          "y": 132
+        }
+      }
+    ]
+  }
+}

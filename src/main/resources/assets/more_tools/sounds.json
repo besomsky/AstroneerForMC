@@ -1,1 +1,11 @@
-{}
+{
+  "sylvaportalsound": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "more_tools:test",
+        "stream": false
+      }
+    ]
+  }
+}

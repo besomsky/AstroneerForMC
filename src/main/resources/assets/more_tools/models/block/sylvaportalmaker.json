@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/maker",
+    "up": "more_tools:blocks/maker",
+    "north": "more_tools:blocks/maker",
+    "east": "more_tools:blocks/maker",
+    "south": "more_tools:blocks/maker",
+    "west": "more_tools:blocks/maker",
+    "particle": "more_tools:blocks/maker"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture",
+        "1": "ilmachine_frontside",
+        "2": "ilmachine_left_backside",
+        "3": "ilmachine_rightside",
+        "4": "ilmachine_top_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

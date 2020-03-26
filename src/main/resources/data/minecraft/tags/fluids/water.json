@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "more_tools:fuel",
-    "more_tools:fuel_flowing"
+    "more_tools:fuel_flowing",
+    "more_tools:oil",
+    "more_tools:oil_flowing"
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 318,
+          "y": 142
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 426,
+          "y": 142
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.COAL#0"
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 372,
+          "y": 178
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "onTakenFromSlot": {
+            "name": "Whenitemtakenfromslot"
+          },
+          "onStackTransfer": {
+            "name": "Whentransferedfromslot"
+          },
+          "name": "Slot #3",
+          "x": 516,
+          "y": 142
+        }
+      }
+    ]
+  }
+}
